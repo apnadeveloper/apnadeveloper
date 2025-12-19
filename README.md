@@ -1,8 +1,8 @@
-- 👋 Hi, Noor Baloch
+- 👋 Hi, Noor Muhammad
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning advanced Nextjs
+- 🌱 I’m currently learning advanced NextJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me WhatsApp +923436059243
+- 📫 How to reach me WhatsApp +923436059243 | +447884893414
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
