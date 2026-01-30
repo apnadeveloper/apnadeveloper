@@ -1,6 +1,6 @@
 - 👋 Hi, Noor Muhammad
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning advanced NextJS
+- 🌱 I’m currently learning Vibe Coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me WhatsApp +923436059243 | +447884893414
 - 😄 Pronouns: ...
